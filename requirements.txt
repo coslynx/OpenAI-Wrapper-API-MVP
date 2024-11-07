@@ -1,0 +1,14 @@
+flask==3.0.3
+openai==1.54.3
+requests==2.32.3
+dotenv==0.0.5
+flask-restful==0.3.10
+pytest==8.3.3
+flake8==7.1.1
+marshmallow==3.23.1
+sqlalchemy==2.0.36
+bcrypt==4.2.0
+sentry-sdk==2.18.0
+gunicorn==23.0.0
+click==8.1.7
+python-dotenv==1.0.1
