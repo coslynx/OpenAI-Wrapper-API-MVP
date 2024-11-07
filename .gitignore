@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info
+
+# Ignore temporary files
+*.swp
+*.tmp
+*.bak
+Thumbs.db
+
+# Ignore macOS directory information files
+.DS_Store
+
+# Ignore environment variables files
+.env
+
+# Ignore editor-specific files
+.vscode/
